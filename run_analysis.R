@@ -1,4 +1,6 @@
 getwd()
+setwd("C:\\Users\\sayak.guharoy\\Desktop\\scripts\\Coursera\\Data Science Specialization\\Course 3\\getdata_projectfiles_UCI HAR Dataset")
+
 library(dplyr)
 
 # read train data
